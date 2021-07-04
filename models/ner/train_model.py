@@ -1,3 +1,5 @@
+# 예제8-10 챗봇 엔진 NER 모델
+
 import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow.keras import preprocessing
